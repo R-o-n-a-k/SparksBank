@@ -43,11 +43,11 @@ INSERT INTO `customer` (`id`, `Name`, `email`, `balance`) VALUES
 (2, 'Shubham', 'shubham@gmail.com', 9950),
 (3, 'Ronak', 'ronakpatel@gmail.com', 19873),
 (4, 'Jai', 'jaipawar@gmail.com', 2600),
-(5, 'prathmesh', 'prathmesh@gmail.com', 2100),
-(6, 'suzan', 'suzankhan@gmail.com', 2511),
+(5, 'Prathmesh', 'prathmesh@gmail.com', 2100),
+(6, 'Suzan', 'suzankhan@gmail.com', 2511),
 (7, 'Chandan', 'chanadankashyap@gmail.com', 2200),
 (8, 'Krushali', 'krushalipatel@gmail.com', 2198),
-(9, 'udit', 'udit@gmail.com', 1900),
+(9, 'Udit', 'udit@gmail.com', 1900),
 (10, 'Aradhna', 'aradhnasingh@gmail.com', 2000);
 
 -- --------------------------------------------------------
@@ -71,8 +71,8 @@ INSERT INTO `history` (`his_id`, `sender`, `reciever`, `amount`) VALUES
 (11, 'Ronak', 'Sakshi', 100),
 (12, 'Sakshi', 'Jai', 100),
 (13, 'Shubham', 'Ronak', 50),
-(14, 'Sakshi', 'suzan', 311),
-(15, 'prathmesh', 'Ronak', 21),
+(14, 'Sakshi', 'Suzan', 311),
+(15, 'Prathmesh', 'Ronak', 21),
 (16, 'Ronak', 'Krushali', 98);
 
 --
